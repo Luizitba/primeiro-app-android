@@ -30,7 +30,7 @@ Layouts em XML
 
 Clone este repositório:
 
-git clone https://github.com/SEU_USUARIO/primeiro-app-android.git
+git clone https://github.com/Luizitba/primeiro-app-android.git
 
 
 Abra o projeto no Android Studio.
